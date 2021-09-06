@@ -1,4 +1,7 @@
 import os
 import datetime
 for item in range(1,5):
-    print(item) 
+    print(item)
+
+for price in range(1,10):
+    print(price) 
