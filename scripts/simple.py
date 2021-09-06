@@ -5,3 +5,5 @@ for item in range(1,5):
 
 for price in range(1,10):
     print(price) 
+
+print("changes added")
